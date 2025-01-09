@@ -1,0 +1,10 @@
+#main{
+    height: 100vh;
+
+}
+#main button {
+   margin-left: 2rem;
+   margin-top: 5rem;
+   height: 2rem;
+   width: 6rem;
+}
