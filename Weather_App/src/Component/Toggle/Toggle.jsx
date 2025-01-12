@@ -1,6 +1,11 @@
-import React from 'react'
+import React, { useState } from 'react';
 
+   
 function Toggle() {
+
+  const [theme,setTheme]=useState();
+     
+    
   return (
     <div>
       <button>Toogle</button>

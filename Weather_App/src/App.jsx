@@ -4,7 +4,7 @@ function App({props}) {
 
   return (
 <>
-     <h2>Weather App</h2>
+    
      <Ui_weather/>
      {/* <UseWeatherData name="gorakhpur"/> */}
 </>
