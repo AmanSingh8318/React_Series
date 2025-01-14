@@ -34,7 +34,7 @@ function App() {
   return (
 <Gitprovider value={{fetchGitData ,data,setData}}>
 <div className="app-container">
-        <Input />
+       <Input />
 
         <UserData />
       </div>
